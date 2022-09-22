@@ -1,2 +1,6 @@
 # CTGAN Model For Tabular Data
-GAN-based Deep Learning data synthesizer - Modeling Tabular data using Conditional GAN 
+## Privacy Preserving Artificial Intelligence | Manuel Sousa | 27.09.2022
+
+### Goal
+GAN-based Deep Learning data synthesizer | 
+Modeling Tabular data of credit card Mortgage defaults using Conditional GAN 
